@@ -1,7 +1,3 @@
-
-### `README.md`
-
-```markdown
 # Beckn Protocol Shopping Agent with FastAPI and LangGraph
 
 This project provides an AI-powered shopping agent built with FastAPI and LangGraph that helps users shop through the **Beckn Protocol**. The agent can search for items, help with order selection, initialization, confirmation, and even track, cancel, or support orders. Users can interact with the agent conversationally, simulating a shopping experience, or make direct API calls for more control.
@@ -230,19 +226,6 @@ Once the server is running, you can visit the interactive API documentation gene
 http://127.0.0.1:8000/docs
 ```
 
-You can test all the endpoints and see their expected inputs and outputs.
 
-## License
 
-This project is licensed under the MIT License.
-```
 
----
-
-### Key Highlights of the Updated `README.md`:
-1. **Focus on the Agent as a Shopping Assistant**: The README now emphasizes the agent’s role in helping users shop via the Beckn Protocol, with instructions for interacting with the agent through `/chat`.
-2. **Clear Example Usage**: Both conversational and direct API requests are showcased, making it easy for users to understand how to use the application.
-3. **Direct API Interaction**: Advanced users can still use direct API requests to perform shopping actions like `search`, `select`, `init`, `confirm`, and so on.
-4. **Interactive API Documentation**: Users are informed about FastAPI's automatically generated API documentation at `/docs`.
-
-You can copy this `README.md` to your project directory to provide a clear and detailed guide for using your Beckn Protocol Shopping Agent. Let me know if you need any additional details or customizations!
