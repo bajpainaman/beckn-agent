@@ -1,4 +1,3 @@
-Here’s the updated `README.md` that frames your project as an **agent to help users shop using the Beckn Protocol**. The focus is on the agent functionality, while still offering direct API interaction for advanced users.
 
 ### `README.md`
 
@@ -29,7 +28,7 @@ This project provides an AI-powered shopping agent built with FastAPI and LangGr
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/beckn-agent.git
+    git clone https://github.com/bajpainaman/beckn-agent.git
     cd beckn-agent
     ```
 
